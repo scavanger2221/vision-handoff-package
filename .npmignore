@@ -1,0 +1,30 @@
+# Development files
+*.test.ts
+*.spec.ts
+test/
+tests/
+coverage/
+.nyc_output/
+
+# Git files
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Source maps (optional - keep if you want debugging)
+# *.map
