@@ -1,0 +1,15 @@
+{
+  "name": "vision-handoff",
+  "version": "1.0.0",
+  "description": "Vision handoff extension for pi - send images to a vision-capable model for analysis",
+  "keywords": ["pi-package", "extension", "vision", "image-analysis"],
+  "pi": {
+    "extensions": ["./extensions/vision-handoff"]
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
