@@ -6,10 +6,14 @@
   "pi": {
     "extensions": ["./extensions/vision-handoff"]
   },
-  "author": "",
+  "author": "scavanger2221",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "git+https://github.com/scavanger2221/vision-handoff-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scavanger2221/vision-handoff-package/issues"
+  },
+  "homepage": "https://github.com/scavanger2221/vision-handoff-package#readme"
 }
